@@ -1,0 +1,24 @@
+{
+  "name": "github_comgraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules src/index.mjs ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayan",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "random-int": "^3.0.0",
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0",
+    "simple-git": "^3.19.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
